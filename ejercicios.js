@@ -13,3 +13,4 @@ function parImpar(number) {
 }
 
 console.log(parImpar(number))
+// "Prueba"
